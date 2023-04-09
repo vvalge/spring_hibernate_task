@@ -1,10 +1,10 @@
 # Default ignored files
 /shelf/
-/.idea/
+/.idea
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
-/dataSources.local.xml
+/.idea/dataSources.local.xml
 target/
-2.2.1. spring_hibernate/src/main/resources/db.properties
+"2.2.1. spring_hibernate/src/main/resources/db.properties"
